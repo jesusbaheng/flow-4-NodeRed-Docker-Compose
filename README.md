@@ -153,3 +153,6 @@ A continuación puede verse una vista previa del resultado de este flow.
 - Este repositorio cuenta con las instrucciones para crear el flow pero también incluye el archivo JSON resultante, así que solo tienes que importarlo a nodeRed.
 
 # Créditos
+
+Jesus Bahena
+- [Perfil de Facebook](https://www.facebook.com/jesus.bahenag/)
